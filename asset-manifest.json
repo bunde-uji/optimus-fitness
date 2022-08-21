@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/optimus-fitness/static/css/main.f74199cd.css",
+    "main.js": "/optimus-fitness/static/js/main.4d1ed3fd.js",
+    "static/js/787.884e199e.chunk.js": "/optimus-fitness/static/js/787.884e199e.chunk.js",
+    "static/media/background2.jpg": "/optimus-fitness/static/media/background2.a57e79ff53251daf1495.jpg",
+    "static/media/background3.jpg": "/optimus-fitness/static/media/background3.eb110c3391ecd6e389e7.jpg",
+    "static/media/background1.jpg": "/optimus-fitness/static/media/background1.6cae8f1a1bc2a6ba79c6.jpg",
+    "static/media/gym2.jpg": "/optimus-fitness/static/media/gym2.c6f0bde2accd3d35b9e4.jpg",
+    "static/media/gym1.jpg": "/optimus-fitness/static/media/gym1.2c8c73afd510ca21434b.jpg",
+    "static/media/optimus2.png": "/optimus-fitness/static/media/optimus2.864eef5a136c90f466af.png",
+    "static/media/paypal.png": "/optimus-fitness/static/media/paypal.4339901a8ef09aedbf35.png",
+    "static/media/contact.svg": "/optimus-fitness/static/media/contact.13c80369250d8f0aff509318d9d484eb.svg",
+    "static/media/paystack-2.svg": "/optimus-fitness/static/media/paystack-2.21a0667a62d2708f324e4fb25085e1eb.svg",
+    "static/media/stripe-4.svg": "/optimus-fitness/static/media/stripe-4.c46c2b41e905214445deddcb58c3abdb.svg",
+    "index.html": "/optimus-fitness/index.html",
+    "main.f74199cd.css.map": "/optimus-fitness/static/css/main.f74199cd.css.map",
+    "main.4d1ed3fd.js.map": "/optimus-fitness/static/js/main.4d1ed3fd.js.map",
+    "787.884e199e.chunk.js.map": "/optimus-fitness/static/js/787.884e199e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f74199cd.css",
+    "static/js/main.4d1ed3fd.js"
+  ]
+}
