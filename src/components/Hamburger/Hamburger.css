@@ -1,0 +1,21 @@
+.hamburger {
+    width: 1.8rem;
+    height: 1.8rem;
+    margin-left: .8rem;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    display: none;
+}
+
+.hamburger > i {
+    color: white;
+    font-size: 1.2rem;
+    margin: auto;
+}
+
+@media screen and (max-width: 900px) {
+    .hamburger {
+        display: inline-block;
+    }
+}

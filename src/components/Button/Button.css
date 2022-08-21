@@ -1,0 +1,48 @@
+.btn {
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    padding: 5px 10px;
+    /* width: 9rem; */
+    border: 0.2px solid #5065A7;
+    /* border-radius: 5px; */
+    /* font-size: 18px; */
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.1);
+    color: #5065A7;
+    text-decoration: none;
+    transition: 0.3s ease all;
+    z-index: 1;
+}
+   
+.btn:before {
+    transition: 0.5s all ease;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    right: 50%;
+    bottom: 0;
+    opacity: 0;
+    content: '';
+    background-color: #5065A7;
+    z-index: -1;
+}
+   
+.btn:hover, button:focus {
+    color: white;
+}
+   
+.btn:hover:before, .btn:focus:before {
+    transition: 0.5s all ease;
+    left: 0;
+    right: 0;
+    opacity: 1;
+}
+   
+.btn:active {
+    transform: scale(0.9);
+}

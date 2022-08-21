@@ -1,0 +1,11 @@
+.about-page {
+    padding: 1% 7% 2% 7%;
+}
+
+.about-page > p {
+    margin: .8% 0;
+}
+
+.about-page > h2 {
+    margin-top: 3%;
+}

@@ -1,0 +1,22 @@
+.quantity-bar {
+    width: 6.5rem;
+    height: 1.5rem;
+    display: flex;
+}
+
+.quantity-input {
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    outline: none;
+}
+
+.change-quantity {
+    width: 25%;
+    height: 100%;
+    background-color: grey;
+    border: none;
+    cursor: pointer;
+}
+
+

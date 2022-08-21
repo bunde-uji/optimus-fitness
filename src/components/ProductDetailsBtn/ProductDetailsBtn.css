@@ -1,0 +1,15 @@
+.addBtn {
+    background-color: #5065A7;
+    color: white;
+    padding: 1rem 3rem;
+    width: 18rem;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.addBtn:hover {
+    background-color: #8698DF;
+    color: rgb(73, 71, 71);
+}
