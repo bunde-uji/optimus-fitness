@@ -58,7 +58,7 @@ function App() {
       <div className='main' ref={pageRef} onClick={dropdownActive ? handleDropdown : undefined} >
         <Navbar cart={cart} />
         <Routes>              
-          <Route path='/' element={<HomePage fetchCart={fetchCart} />} />
+          <Route path='/' index element={<HomePage fetchCart={fetchCart} />} />
           <Route path='/cart' element={<CartPage cart={cart} fetchCart={fetchCart} setCart={setCart} />} />
           <Route path='/products/:category' element={<ProductsPage />} products={products} cart={cart} fetchCart={fetchCart} />
           <Route path='/product/:id' element={<ProductDetails />} products={products} fetchCart={fetchCart} />
